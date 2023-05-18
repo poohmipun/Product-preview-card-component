@@ -15,12 +15,12 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-![Screenshot]()
+![Screenshot](/images/screencapture.png)
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://github.com/poohmipun/Product-preview-card-component.git]
+- Live Site URL: [https://spectacular-taffy-2353a3.netlify.app/]
 
 ## My process
 
