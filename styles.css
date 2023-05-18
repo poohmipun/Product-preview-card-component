@@ -26,6 +26,7 @@ body {
   display: flex;
   max-height: 100%;
   max-width: 100%;
+  box-shadow: 5px 5px 40px 1px hsla(212, 21%, 14%, 0.327);
   border-radius: 10px;
   overflow: hidden;
   background: var(--White);
