@@ -30,5 +30,4 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - CSS custom properties
 
 ### What I learned
-
-first attempt
+I came up with this after trying so many different things to get it to work; however, the mobile version still doesn't work, the image doesn't change, and the margin is off. 😔 But I'll fix it tomorrow because I'm already doing my best for today. 💪
